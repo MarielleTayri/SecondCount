@@ -27,3 +27,12 @@ h1 {
   justify-items: center;
   margin-top: 20px;
 }
+.time-box {
+  text-align: center;
+  color: #d6406f;
+}
+
+#message {
+  color: #d6406f;
+  margin-top: 20px;
+}
