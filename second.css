@@ -19,3 +19,11 @@ body {
 h1 {
   color: #d6406f;
 }
+
+.counter {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 20px;
+  justify-items: center;
+  margin-top: 20px;
+}
